@@ -3,7 +3,7 @@ A game similar to Sokoban. Made using Unity and C#.
 
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#technologie)
+* [Technologies](#technologies)
 * [Scripts](#scripts)
 * [Preview](#preview)
 
