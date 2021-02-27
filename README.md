@@ -11,7 +11,7 @@ A game similar to Sokoban. Made using Unity and C#.
 It's a puzzle video game where player has to push the boxes to storage locations. Levels are read from txt files while running the game. 
 
 ## Technologies 
-* Unity version 
+* Unity version 2019.4.12
 
 ## Scripts
 ### Level
