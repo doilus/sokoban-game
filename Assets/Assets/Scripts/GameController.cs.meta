@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4cbd65a96f233b74882d3a04497df5ff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wallPrefab: {fileID: 7061116899621930337, guid: e0efd865de89fd9419dfb602eed08ba6,
+      type: 3}
+  - floorPrefab: {fileID: 556979026163687067, guid: e562043384cd354448606f388f98d053,
+      type: 3}
+  - targetPrefab: {fileID: 6573674939893056768, guid: b98dbd8c50ab0924fbdbd1f56cbc8562,
+      type: 3}
+  - boxPrefab: {fileID: 2960303137821504733, guid: 2004334360e547c4cb8206a58072264b,
+      type: 3}
+  - playerPrefab: {fileID: 8146147997856657312, guid: df031f3348f2d844d86ff1a1efbd3eab,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
